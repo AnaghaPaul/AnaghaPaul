@@ -4,7 +4,7 @@
 
 Hey there! I’m a curious and motivated data analyst who just wrapped up the Data Analytics for Business program at St. Clair College. Always up for learning something new, exploring cool datasets, and turning numbers into stories. Let’s see where this data journey takes me!
 
-Connect witn me on - <p align="left">
+Connect with me on - <p align="left">
       <a href="https://www.linkedin.com/in/anagha-paul-236aa3251/">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"/></a> 
    </p>
