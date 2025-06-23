@@ -20,5 +20,18 @@ Connect witn me on - <p align="left">
 
 <br />
 
+---
+### 🧰 Project Summary
+#### [Waze User Churn and Retention Strategy](https://github.com/AnaghaPaul/Waze_User-Churn_Analysis)
+
+![Project Thumbnail](https://github.com/AnaghaPaul/Waze_User-Churn_Analysis/blob/main/images/WAZE.png)  
+
+## Description
+- Built a machine learning model to predict user churn in Waze using a synthetic dataset
+- Performed data cleaning, EDA, and feature engineering to identify key retention factors (Python, Pandas, NumPy).
+- Handled class imbalance with SMOTE and implemented predictive models (Scikit-learn).
+- Developed data-driven retention strategies and visualized insights using Tableau & Matplotlib. 
+- Key Insights - A noticeable reduction in **driving days** and **activity days** was identified as a strong early warning sign of user churn. These behavioral metrics can be used proactively to improve retention strategies.
+
 #
 
