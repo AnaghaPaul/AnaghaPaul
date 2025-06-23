@@ -1,16 +1,22 @@
-## Hi there 👋
+# Anagha Paul
 
-<!--
-**AnaghaPaul/AnaghaPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst`**
 
-Here are some ideas to get you started:
+Hey there! I’m a curious and motivated data analyst who just wrapped up the Data Analytics for Business program at St. Clair College. Always up for learning something new, exploring cool datasets, and turning numbers into stories. Let’s see where this data journey takes me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect witn me on - <p align="left">
+      <a href="https://www.linkedin.com/in/anagha-paul-236aa3251/">
+         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg"/></a> 
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+<br />
+
+#
+
