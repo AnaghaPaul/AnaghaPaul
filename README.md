@@ -33,7 +33,7 @@ Connect with me on - <p align="left">
 - Developed data-driven retention strategies and visualized insights using Tableau & Matplotlib. 
 - Key Insights - A noticeable reduction in **driving days** and **activity days** was identified as a strong early warning sign of user churn. These behavioral metrics can be used proactively to improve retention strategies.
 
-### [Polysubstance use and percieved mental health](https://github.com/AnaghaPaul/PolysubstanceUse_PerceivedMentalHealth)
+### [Polysubstance use and perceived mental health](https://github.com/AnaghaPaul/PolysubstanceUse_PerceivedMentalHealth)
 
 ![Project Thumbnail](https://github.com/AnaghaPaul/PolysubstanceUse_PerceivedMentalHealth/blob/main/Poly%20Substance%20Use%20and%20it%E2%80%99s%20impact%20on%20perceived%20Mental%20Health.jpg)  
 
