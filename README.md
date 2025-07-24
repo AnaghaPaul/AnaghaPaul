@@ -44,7 +44,7 @@ Connect with me on - <p align="left">
 - Despite low Cramér’s V values, significant associations (p < 0.05) were found, highlighting meaningful patterns in complex, multidimensional social data.
 - Validated the relevance of clustering in uncovering mental health trends based on substance use and demographic characteristics.
 
-### [Financial Market Performance Analysis: APPLE INC. VS. S&P 500](https://github.com/AnaghaPaul/PolysubstanceUse_PerceivedMentalHealth)
+### [Financial Market Performance Analysis: APPLE INC. VS. S&P 500](https://github.com/AnaghaPaul/StockMarket-Analysis_Apple-SandP500)
 - Conducted a comparative financial analysis between Apple Inc. and the S&P 500 Index using historical stock data from Yahoo Finance, leveraging Python libraries such as pandas, yfinance, and matplotlib.
 - Normalized closing prices to enable scale-agnostic comparison and calculated daily returns to evaluate short-term volatility and growth trends.
 - Applied time series visualization with annotated events (e.g., iPhone launches) to identify significant stock movements and macroeconomic influences.
