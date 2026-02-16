@@ -22,6 +22,19 @@ Connect with me on - <p align="left">
 
 ---
 ### 🧰 Project Summary
+
+### [Modern Retail & Order Management Data Warehouse](http://github.com/AnaghaPaul/SqlDataWarehouseProject)
+
+![Project Thumbnail](https://github.com/AnaghaPaul/SqlDataWarehouseProject/blob/ee19a4eac2dcae17220d982bbda9cd4dd2850421/docs/data_model_starschema.png)  
+
+- Designed and implemented a **Retail & Order Management Data Warehouse** using SQL Server and Power BI.  
+- Built **Star Schema dimensional models** with clear fact/dimension separation for accurate revenue and customer analysis.  
+- Applied **Medallion Architecture (Bronze → Silver → Gold)** for structured, scalable, and governance-aware data pipelines.  
+- Integrated **CRM and ERP systems** to create a unified analytics-ready platform across multiple countries (Canada, US, UK, Germany, France, Australia).  
+- Developed **Gold-layer views** to enforce role-based security, column-level masking, and semantic abstraction for BI consumption.  
+- Enabled **Power BI dashboards** for customer segmentation, product performance, regional comparisons, and trend analysis.  
+- Ensured **analytical integrity** with additive/non-additive measure handling and controlled aggregation rules.
+    
 ### [Waze User Churn and Retention Strategy](https://github.com/AnaghaPaul/Waze_User-Churn_Analysis)
 
 ![Project Thumbnail](https://github.com/AnaghaPaul/Waze_User-Churn_Analysis/blob/main/images/WAZE.png)  
