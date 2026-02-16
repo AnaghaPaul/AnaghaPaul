@@ -27,6 +27,8 @@ Connect with me on - <p align="left">
 
 ![Project Thumbnail](https://github.com/AnaghaPaul/SqlDataWarehouseProject/blob/ee19a4eac2dcae17220d982bbda9cd4dd2850421/docs/data_model_starschema.png)  
 
+## Description
+
 - Designed and implemented a **Retail & Order Management Data Warehouse** using SQL Server and Power BI.  
 - Built **Star Schema dimensional models** with clear fact/dimension separation for accurate revenue and customer analysis.  
 - Applied **Medallion Architecture (Bronze → Silver → Gold)** for structured, scalable, and governance-aware data pipelines.  
